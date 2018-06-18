@@ -1,0 +1,18 @@
+C:\Users\Anton\Desktop\Универ\Программирование\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe.config
+C:\Users\Anton\Desktop\Универ\Программирование\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe
+C:\Users\Anton\Desktop\Универ\Программирование\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.pdb
+C:\Users\Anton\Desktop\Универ\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Универ\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\Anton\Desktop\Универ\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\Универ\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe
+C:\Users\Anton\Desktop\Универ\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.pdb
+C:\Users\Anton\Desktop\Программирование\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe.config
+C:\Users\Anton\Desktop\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe
+C:\Users\Anton\Desktop\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.pdb
+C:\Users\Anton\Desktop\Программирование\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe
+C:\Users\Anton\Desktop\Программирование\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.pdb
+C:\Users\Anton\Desktop\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Desktop\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form1.resources
+C:\Users\Anton\Desktop\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\Anton\Desktop\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.GenerateResource.Cache
+C:\Users\Anton\Desktop\Универ\Программирование\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.MainWindow.resources
